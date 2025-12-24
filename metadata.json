@@ -1,0 +1,8 @@
+{
+  "name": "FastVision - AI Video Creator Studio",
+  "description": "A comprehensive platform for private video creators offering Wan LoRA training, video generation, and robust API integrations managed by GPU-accelerated Ray clusters.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
